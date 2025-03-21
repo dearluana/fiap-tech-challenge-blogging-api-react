@@ -1,4 +1,3 @@
-# fiap-tech-challenge-blogging-api-react
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f9b94ac9-1dce-4e06-8e79-6919fdaf2813" alt="Descrição da Imagem" width="100">
 </p>
