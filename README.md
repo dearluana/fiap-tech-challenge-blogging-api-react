@@ -66,7 +66,7 @@
 <h3>1️⃣ Clonar o repositório</h3>
 <pre>
 git clone https://github.com/dearluana/fiap-tech-challenge-blogging-api-react.git
-cd main
+cd fiap-tech-challenge-blogging-api-react
 </pre>
 
 <h3>2️⃣ Instalar dependências</h3>
